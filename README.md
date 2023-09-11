@@ -1,30 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.center {
-  text-align: center;
-}
-
-.blink {
-  animation: blinker 1s linear infinite;
-}
-
-@keyframes blinker {
-  50% {
-    opacity: 0;
-  }
-}
-</style>
-</head>
-<body>
-<div class="center">
-  <h1 class="blink">Hi, I'm SATHYAKALA DEVARAJAN</h1>
-</div>
-</body>
-</html>
- 
-
 
 # 💫 About Me:
 🔭 I’m currently working on Data Analyst<br>👯 I’m looking to collaborate on Data analyst, Data science<br>🌱 I’m currently learning Power BI, python
