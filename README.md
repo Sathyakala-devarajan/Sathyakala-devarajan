@@ -21,12 +21,6 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-%230078D4.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sathyakala-Devarajan&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathyakala-Devarajan&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sathyakala-Devarajan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
