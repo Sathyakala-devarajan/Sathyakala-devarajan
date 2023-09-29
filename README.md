@@ -1,10 +1,5 @@
 ### Hi, I'm Sathyakala Devarajan
 
----
-<div align=center> 
-<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e479payps8c8spoxbwaw2hq2xq1h7kq4mnkmvrdqr1q&rid=giphy.gif&ct=g" >
-</div>
-
 # 💫 About Me:
 🔭 I’m currently working on Data Analyst<br>👯 I’m looking to collaborate on Data analyst, Data science<br>🌱 I’m currently learning Power BI, python
 
