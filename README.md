@@ -1,4 +1,4 @@
-### Hi, I'm Sathyakala Devarajn <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30>  
+### Hi, I'm Sathyakala Devarajan
 
 ---
 <div align=center> 
