@@ -1,7 +1,7 @@
 ### Hi, I'm Sathyakala Devarajan
 
 # 💫 About Me:
-🔭 I’m currently working on Data Analyst<br>👯 I’m looking to collaborate on Data analyst, Data science<br>🌱 I’m currently learning Power BI, python
+🔭 Data Analyst<br>👯 I’m looking to collaborate on Data analyst, Data science<br>🌱 I’m currently learning Power BI, python
 
 
 ## 🌐 Socials:
