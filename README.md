@@ -1,7 +1,7 @@
 ### Hi, I'm Sathyakala Devarajan
 
 # 💫 About Me:
-🔭 Data Analyst<br>👯 I’m looking for Data analyst, Data science or Power BI role<br>🌱
+🔭 Data Analyst<br>👯 I’m looking for Data analyst, Data science or Power BI role<br>
 
 
 ## 🌐 Socials:
