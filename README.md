@@ -21,10 +21,6 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-%230078D4.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sathyakala-Devarajan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
