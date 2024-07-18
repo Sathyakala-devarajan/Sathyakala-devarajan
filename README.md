@@ -1,6 +1,6 @@
 ### Hi, I'm Sathyakala Devarajan
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 Data Analyst, Data scientist<br>👯 I’m looking for Data analyst, Data science or Power BI role<br>
 
 
@@ -9,7 +9,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23f7941d.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sathyakaladevar1)
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
