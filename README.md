@@ -7,7 +7,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sathyakala-devarajan) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23f7941d.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sathyakaladevar1)
-[![Resume](https://img.shields.io/badge/Resume-%23f7945d.svg?logo=Resume&logoColor=white)](https://dapper-paprenjak-9dd3a7.netlify.app/)
+[![Resume](https://img.shields.io/badge/Resume-%2307945d.svg?logo=Resume&logoColor=white)](https://dapper-paprenjak-9dd3a7.netlify.app/)
 
 
 ## 💻 Tech Stack:
